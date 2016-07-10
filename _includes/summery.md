@@ -1,0 +1,1 @@
+Experienced Web Developer with 3+ Years building production applications. Possesses strong technical skills and understanding of the Internet space. Passionate learner, always looking to dive deep into interesting challenges. 
