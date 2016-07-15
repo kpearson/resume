@@ -22,9 +22,13 @@ _Ruby & JavaScript_
 PROJECTS
 --------
 
-__[FullStack User Group]__ \| Organizer of a bi-weekly meet up focused on building core programing skills. We use pair programing, language agnostic challenges and open-source contributions to foster an environment which engages all skill levels.
+__[FullStack User Group]__ \| Organizer of a bi-weekly meet up focused on
+ building core programing skills. We use pair programing, language agnostic
+ challenges and open-source contributions to foster an environment which
+ engages all skill levels.
 
-__[Trial and Error]__ \| Personal blog about the tools and trade of web development.  
+__[Trial and Error]__ \| Personal blog about the tools and trade of web
+ development.  
 
 [FullStack User Group]: http://bit.ly/trial-error
 [Trial and Error]:      http://bit.ly/fullstack-meetup
@@ -35,13 +39,14 @@ EDUCATION
 __[Turing School of Software and Design]__ | Web Application Development with Ruby, Rails & JavaScript  
 2015
 
-__[Otis College of Art and Design]__ | Environmental Design  
+__[Otis College of Art and Design]__ - Environmental Design  
 1998 - 2000
 
 [Turing School of Software and Design]: http://bit.ly/turing-school
 [Otis College of Art and Design]:       http://bit.ly/otis-art-college
 
-## Toolbox
+TOOLBOX
+-------
 
 ``` ruby
 module DEVELOPER

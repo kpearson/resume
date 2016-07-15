@@ -1,5 +1,13 @@
+@media print {
+  br {
+    display: block;
+    content: "";
+    margin-bottom: -5%;
+  }
+}
+
 body {
-	font-family: "Avenir Next", Helvetica, Arial, sans-serif;
+        font-family: "Avenir Next", Helvetica, Arial, sans-serif;
 	padding:1em;
 	margin:auto;
 	max-width:42em;
@@ -110,3 +118,4 @@ pre > code {
 .send { color:#77bb77; }
 .server { color:#7799bb; }
 .error { color:#AA0000; }
+

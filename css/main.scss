@@ -8,11 +8,8 @@
 @import "layout";
 @import "syntax";
 @import "header";
+@import "fork-me-on-github";
 
-// Layouts
-{% if site.resume_theme == 'sample' %}
-  @import "resume-original";
-{% else %}
-  @import "resume";
-{% endif %}
+// Layout
+@import "resume";
 

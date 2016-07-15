@@ -4,7 +4,9 @@ h2.header-title {
   border-bottom: none;
 }
 
-.page-header { padding: 1.5rem 0;
+.page-header {
+
+  padding: 1.5rem 0;
 
   .avatar {
     width: 95px;
@@ -101,4 +103,43 @@ h2.header-title {
   }
 
   &.not-looking { width: 400px; }
+}
+
+@media print {
+  .header-name {
+    text-align: center;
+  }
+
+  .header-subtitle {
+    text-align: center;
+    margin-top: -5%;
+    color: #000000;
+    font-size: 18pt;
+  }
+
+  .no-print {
+    display: none;
+    height: 0;
+  }
+
+  .no-screen {
+    display: block;
+    height: 0;
+  }
+
+  .contact-block {
+    display: block;
+    text-align: center;
+  }
+
+  a {
+    font-weight: bold;
+  }
+}
+
+@media screen {
+  .no-screen {
+    display: none;
+    height: 0;
+  }
 }

@@ -23,11 +23,10 @@ resume_looking_for_work: "yes"
 
 # Resume social links
 resume_social_links:
-  resume_github_url:      "https://github.com/kpearson"
-  resume_twitter_url:     "http://twitter.com/kit_pearson"
-# resume_facebook_url:  "insert Facebook URL here"
-  resume_linkedin_url:    "https://www.linkedin.com/in/kit-pearson-2228977"
-  resume_website_url:     "http://trialanderror.io"
+  resume_github_url:   "http://bit.ly/kitpearson"
+  resume_twitter_url:  "http://bit.ly/twitter-kit"
+  resume_linkedin_url: "http://bit.ly/linked-in-kit"
+  resume_website_url:  "http://bit.ly/trial-error"
 
 # Design settings
 resume_theme:                   default
