@@ -3,6 +3,13 @@
  * https://github.com/simonwhitaker/github-fork-ribbon-css
 */
 
+@media only screen
+  and (max-device-width: 1024px) {
+    .github-fork-ribbon {
+      display: none;
+    }
+}
+
 .github-fork-ribbon {
   width: 12.1em;
   height: 12.1em;
