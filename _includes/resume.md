@@ -17,7 +17,7 @@ _Ruby & JavaScript_
 
 [Yoshirt]:                 http://bit.ly/yo-shirt
 [Flexa]:                   http://bit.ly/flexa-inc
-[Logical Reality Designs]: hfocusedttp://bit.ly/lrddesign
+[Logical Reality Designs]: http://bit.ly/lrddesign
 
 PROJECTS
 --------
@@ -30,8 +30,8 @@ __[FullStack User Group]__ \| Organizer of a bi-weekly meet up focused on
 __[Trial and Error]__ \| Personal blog about the tools and trade of web
  development.  
 
-[FullStack User Group]: http://bit.ly/trial-error
-[Trial and Error]:      http://bit.ly/fullstack-meetup
+[FullStack User Group]: http://bit.ly/fullstack-meetup
+[Trial and Error]:      http://bit.ly/trial-error
 
 EDUCATION
 ---------
