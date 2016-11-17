@@ -1,7 +1,7 @@
 BACKGROUND
 ----------
 
-__[Yoshirt]__ | API Engineer, Los Angeles, CA 2016  
+__[Yoshirt]__ | API Lead Engineer, Los Angeles, CA 2016  
 Responsible for the company's core API. The Yoshirt API is the central hub tying together the RESTful service oriented architecture which supports different native applications.  
 _Ruby, JsonAPI & JavaScript_
 
@@ -37,7 +37,7 @@ EDUCATION
 ---------
 
 __[Turing School of Software and Design]__ | Web Application Development with Ruby, Rails & JavaScript  
-2015
+2014 - 2015
 
 __[Otis College of Art and Design]__ - Environmental Design  
 1998 - 2000
