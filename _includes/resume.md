@@ -1,6 +1,10 @@
 BACKGROUND
 ----------
 
+[Cyndx Networks] | Software Engineer, Los Angeles, CA 2017 - Current  
+Building and extending Cyndx fundraising product Doppler.
+_Ruby, Docker, JavaScript, AWS_
+
 __[Yoshirt]__ | API Lead Engineer, Los Angeles, CA 2016  
 Responsible for the company's core API. The Yoshirt API is the central hub tying together the RESTful service oriented architecture which supports different native applications.  
 _Ruby, JsonAPI & JavaScript_
