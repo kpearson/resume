@@ -1,24 +1,35 @@
 BACKGROUND
 ----------
 
-[Cyndx Networks] | Software Engineer, Los Angeles, CA 2017 - Current  
-Building and extending Cyndx fundraising product Doppler.
-_Ruby, Docker, JavaScript, AWS_
+##### [Cyndx Networks] | Lead Data Engineer, Los Angeles, CA 2017 - Present
+Building the Cyndx data/AI infrastructure. Designing and provisioning fault
+tolerant distributed systems. Building service to host and run AI, and machine
+learning algorithms provided by the Cyndx data science team.  
+_Python, Bash, Docker, Kuberneties, Gitlab, AWS..._
 
-__[Yoshirt]__ | API Lead Engineer, Los Angeles, CA 2016  
-Responsible for the company's core API. The Yoshirt API is the central hub tying together the RESTful service oriented architecture which supports different native applications.  
+##### [Yoshirt] | Lead Backend Engineer, Los Angeles, CA 2016
+Responsible for the company's backend Ruby on Rails API. I designed Yoshirt's
+backend to maximize Yoshirts native first architecture. Design considerations
+include support for a unique in app graphic design tool, a specialized order
+system allowing for user generated asses to be passed to vendors. Connecting
+the Yoshirt systems to a wide range of vendors systems. Large fluctuations is
+traffic.  
 _Ruby, JsonAPI & JavaScript_
 
-__[Flexa]__ | Software Engineer, Pasadena, CA 2015 - 2016  
-Built an admin dashboard for tracking user engagement and to drive conversions. Optimized for quick asynchronous updating of user information by the support/engagement team.   
-_Ruby, JavaScript & AJAX_
+##### [Flexa] | Software Engineer, Pasadena, CA 2015 - 2016
+Built the admin dashboard for tracking user engagement and to drive conversions.
+Optimized for use by the engagement team, the interface allowed for quick
+asynchronous updating of user information.  
+_Ruby, JavaScript_
 
-__[Logical Reality Designs]__ | Web Developer/Consulting, Pasadena, CA 2014  
-Worked in teams to build client projects. Built features, identified and fixed bugs on client applications.  
+##### [Logical Reality Designs] | Web Developer/Consulting, Pasadena, CA 2014
+Worked in teams to build client projects. Built features, identified and fixed
+bugs on client applications.  
 _Ruby & JavaScript_
 
->References available upon request.
+References available upon request.
 
+[Cyndx Networks]:          http://bit.ly/2Mp3VHE
 [Yoshirt]:                 http://bit.ly/yo-shirt
 [Flexa]:                   http://bit.ly/flexa-inc
 [Logical Reality Designs]: http://bit.ly/lrddesign
@@ -26,16 +37,12 @@ _Ruby & JavaScript_
 PROJECTS
 --------
 
-__[FullStack User Group]__ \| Organizer of a bi-weekly meet up focused on
+__[FullStack la meetup]__ \| Organizer of a bi-weekly meet up focused on
  building core programing skills. We use pair programing, language agnostic
  challenges and open-source contributions to foster an environment which
  engages all skill levels.
 
-__[Trial and Error]__ \| Personal blog about the tools and trade of web
- development.  
-
 [FullStack User Group]: http://bit.ly/fullstack-meetup
-[Trial and Error]:      http://bit.ly/trial-error
 
 EDUCATION
 ---------
@@ -55,11 +62,8 @@ TOOLBOX
 ``` ruby
 module DEVELOPER
     TOOLS = {
-      languages:   [:ruby, :javascript, :sql],
-      dev_env:     [:git, :vim, :tmux],
-      deploy:      [:heroku, :aws],
-      performance: [:redis, :sidekiq],
-      methodology: [:tdd, :agile],
+      languages:   [:ruby, :python, :bash, :javascript, :sql],
+      dev_ops:     [:aws, :docker, :kuberneties, ci_cd: [:gitlab]],
       frameworks:  [
         :rails, :rspec, :jsonapi, {frontend: [:bootstrap, :foundation]}
       ]
