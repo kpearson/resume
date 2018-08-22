@@ -1,1 +1,2 @@
-Experienced Web Developer with 3+ Years building production web applications. Possesses strong technical skills and understanding of the Internet space. Passionate learner, always looking to dive deep into interesting challenges.
+Internet focused Software Engineer. Fluent in the application development life
+cycle, containerized environments, and distributed systems architectures.
