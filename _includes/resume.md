@@ -2,9 +2,9 @@ EXPERIENCE
 ----------
 
 ##### [Cyndx Networks] | Lead Data Engineer, Los Angeles, CA 2017 - Present
-Building the Cyndx data/AI infrastructure. Designing and provisioning fault
-tolerant distributed systems. Building service to host and run AI, and machine
-learning algorithms provided by the Cyndx data science team.  
+Building the Cyndx data/AI infrastructure. Designing and provisioning
+fault-tolerant distributed systems. Building services to host and run AI, and
+machine learning algorithms.  
 _Python, Bash, Docker, Kubernetes, Gitlab, AWS..._
 
 ##### [Yoshirt] | Lead Backend Engineer, Los Angeles, CA 2016
@@ -33,12 +33,12 @@ _Ruby & JavaScript_
 PROJECTS
 --------
 
-__[FullStack La Meetup]__ \| Organizer of a biweekly meet up focused on
- building core programing skills. We use pair programing, language agnostic
- challenges and open-source contributions to foster an environment which
- engages all skill levels.
+__[FullStack LA Meetup]__ \| Organizer of a biweekly meetup focused on building
+core programing skills. We use pair programing, language agnostic
+challenges and open-source contributions to foster an environment which
+engages all skill levels.
 
-[FullStack La Meetup]: http://bit.ly/fullstack-meetup
+[FullStack LA Meetup]: http://bit.ly/fullstack-meetup
 
 EDUCATION
 ---------
