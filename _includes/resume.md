@@ -1,13 +1,13 @@
 EXPERIENCE
 ----------
 
-##### [Cyndx Networks] | Lead Data Engineer, Los Angeles, CA 2017 - Present
+#### [Cyndx Networks] | Lead Data Engineer, Los Angeles, CA 2017 - Present
 Building the Cyndx data/AI infrastructure. Designing and provisioning
 fault-tolerant distributed systems. Building services to host and run AI, and
 machine learning algorithms.  
 _Python, Bash, Docker, Kubernetes, Gitlab, AWS..._
 
-##### [Yoshirt] | Lead Backend Engineer, Los Angeles, CA 2016
+#### [Yoshirt] | Lead Backend Engineer, Los Angeles, CA 2016
 Responsible for Yoshirt’s backend Ruby on Rails API. Designed Yoshirt’s backend
 to maximize native architecture. Design considerations included support for a
 unique in-app graphic design tool, a specialized order system allowing for
@@ -15,12 +15,12 @@ user-generated assets to be passed to vendors. Connected Yoshirt systems to a
 wide range of vendor systems. Handled large fluctuations in traffic.  
 _Ruby, JsonAPI & JavaScript_
 
-##### [Flexa] | Software Engineer, Pasadena, CA 2015 - 2016
+#### [Flexa] | Software Engineer, Pasadena, CA 2015 - 2016
 Built the admin dashboard for tracking user engagement and driving conversions.
 The interface allowed for quick asynchronous updating of user information.  
 _Ruby, JavaScript_
 
-##### [Logical Reality Design] | Web Developer / Consulting, Pasadena, CA 2014
+#### [Logical Reality Design] | Web Developer / Consulting, Pasadena, CA 2014
 Worked in teams to build client projects. Built features, identified and fixed
 bugs on client applications.  
 _Ruby & JavaScript_
