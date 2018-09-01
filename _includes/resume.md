@@ -57,13 +57,12 @@ TOOLBOX
 
 ``` ruby
 module DEVELOPER
-    TOOLS = {
-      languages:   [:ruby, :python, :bash, :javascript, :sql],
-      dev_ops:     [:aws, :docker, :kubernetes, ci_cd: [:gitlab]],
-      frameworks:  [
-        :rails, :rspec, :jsonapi, {frontend: [:bootstrap, :foundation]}
-      ]
-    }
-  end
+  TOOLS = {
+    languages:   [:ruby, :python, :bash, :javascript, :sql],
+    dev_ops:     [:aws, :docker, :kubernetes, ci_cd: [:gitlab]],
+    frameworks:  [
+      :rails, :rspec, :jsonapi, {frontend: [:bootstrap, :foundation]}
+    ]
+  }
 end
 ```
