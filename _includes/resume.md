@@ -2,10 +2,22 @@ EXPERIENCE
 ----------
 
 #### [Cyndx Networks] | Lead Data Engineer, Los Angeles, CA 2017 - Present
-Building the Cyndx data/AI infrastructure. Designing and provisioning
-fault-tolerant distributed systems. Building services to host and run AI, and
-machine learning algorithms.  
-_Python, Bash, Docker, Kubernetes, Gitlab, AWS..._
+Established the data engineering team at Cyndx, with the mandate to develop
+production-ready data systems. These systems focus on delivering the result of
+machine learning algorithms to end users, model training, and data ingestion.
+
+During my time leading the data engineering team, we met several critical
+milestones. Working closely with product, data science, and application teams, I
+identified short term requirements. We were then able to build and deploy
+interim solutions. At the same time designing and developing long-term solutions
+to deliver performant machine learning algorithms, and automated data ingestion
+pipelines.
+
+The data engineering team is a cross-functional team with advanced skills
+developed around delivering data-centric applications. We're well versed in
+application development, data science, and DevOps, allowing for rapid
+development of fast, fault-tolerant services in our application ecosystem.
+_Python, Go, Docker, Kubernetes, Gitlab, AWS..._
 
 #### [Yoshirt] | Lead Backend Engineer, Los Angeles, CA 2016
 Responsible for Yoshirt’s backend Ruby on Rails API. Designed Yoshirt’s backend
