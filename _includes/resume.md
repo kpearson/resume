@@ -16,7 +16,7 @@ pipelines.
 The data engineering team is a cross-functional team with advanced skills
 developed around delivering data-centric applications. We're well versed in
 application development, data science, and DevOps, allowing for rapid
-development of fast, fault-tolerant services in our application ecosystem.
+development of fast, fault-tolerant services in our application ecosystem.  
 _Python, Go, Docker, Kubernetes, Gitlab, AWS..._
 
 #### [Yoshirt] | Lead Backend Engineer, Los Angeles, CA 2016
