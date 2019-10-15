@@ -1,40 +1,45 @@
 EXPERIENCE
 ----------
 
-#### [Cyndx Networks] | Lead Data Engineer, Los Angeles, CA 2017 - Present
-Established the data engineering team at Cyndx, with the mandate to develop
-production-ready data systems. These systems focus on delivering the result of
-machine learning algorithms to end users, model training, and data ingestion.
+#### [Cyndx Networks] | Senior Software Engineer, Los Angeles, CA 2017 - Present
+During my time at Cyndx I have had several key roles across the engineering
+team including the platorm team, data team, and dev-ops.
 
-During my time leading the data engineering team, we met several critical
-milestones. Working closely with product, data science, and application teams, I
-identified short term requirements. We were then able to build and deploy
-interim solutions. At the same time designing and developing long-term solutions
-to deliver performant machine learning algorithms, and automated data ingestion
-pipelines.
+- On the Platform team I worked on the backend api built with GraphQL, Neo4j,
+and Ruby on Rails. I also built several microservices using serverless
+architecture writen in Node.js and Golang.
+- Establishing the data engineering team at Cyndx, with the mandate to develop
+production-ready data systems. During my time leading the data engineering team
+we met several critical milestones. I worked closely with the product, data
+science, and application teams, to identify key requirements.  Then designed
+and developed long-term solutions to automate the ingestion of data from
+multiple data sources and deliver data to the platorm and the data
+science team.
+- DevOps - Throught my time at Cyndx I'm always worked closly with the devops
+team. Designing and building CI/CD pipelines on our self hosted Gitlab. The
+deployment ranged from  
 
-The data engineering team is a cross-functional team with advanced skills
-developed around delivering data-centric applications. We're well versed in
-application development, data science, and DevOps, allowing for rapid
-development of fast, fault-tolerant services in our application ecosystem.  
-_Python, Go, Docker, Kubernetes, Gitlab, AWS..._
+_Ruby, JavaScript, Python, Go, Docker, Kubernetes, Gitlab, AWS..._
 
 #### [Yoshirt] | Lead Backend Engineer, Los Angeles, CA 2016
-Responsible for Yoshirt’s backend Ruby on Rails API. Designed Yoshirt’s backend
-to maximize native architecture. Design considerations included support for a
-unique in-app graphic design tool, a specialized order system allowing for
-user-generated assets to be passed to vendors. Connected Yoshirt systems to a
-wide range of vendor systems. Handled large fluctuations in traffic.  
+Responsible for Yoshirt’s backend (Ruby on Rails) API. Designed Yoshirt’s
+backend to maximize native architecture. Design considerations included support
+for a unique in-app graphic design tool, a specialized order system allowing
+for user-generated assets to be passed to vendors. Connected Yoshirt systems to
+a wide range of vendor systems. Handled large fluctuations in traffic.  
+
 _Ruby, JsonAPI & JavaScript_
 
 #### [Flexa] | Software Engineer, Pasadena, CA 2015 - 2016
 Built the admin dashboard for tracking user engagement and driving conversions.
 The interface allowed for quick asynchronous updating of user information.  
+
 _Ruby, JavaScript_
 
-#### [Logical Reality Design] | Web Developer / Consulting, Pasadena, CA 2014
+#### [Logical Reality Design] | Software Engineer, Pasadena, CA 2014
 Worked in teams to build client projects. Built features, identified and fixed
 bugs on client applications.  
+
 _Ruby & JavaScript_
 
 [Cyndx Networks]:         http://bit.ly/2Mp3VHE
@@ -68,12 +73,13 @@ TOOLBOX
 -------
 
 ``` ruby
-module DEVELOPER
+module Developer
   TOOLS = {
-    languages:   [:ruby, :python, :bash, :javascript, :sql],
-    dev_ops:     [:aws, :docker, :kubernetes, ci_cd: [:gitlab]],
-    frameworks:  [
-      :rails, :rspec, :jsonapi, {frontend: [:bootstrap, :foundation]}
+    languages:  [:ruby, :javascript, :nodejs, :python, :go],
+    dev_ops:    [:aws, :serverless, :docker, :kubernetes, :gitlab],
+    frameworks: [
+      {backend: [:rails, :graphql]},
+      {frontend: [:react, :react_native]},
     ]
   }
 end
