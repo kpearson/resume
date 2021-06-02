@@ -1,25 +1,30 @@
-EXPERIENCE
-----------
+## EXPERIENCE
 
-#### [Cyndx Networks] | Lead Data Engineer, Los Angeles, CA 2017 - Present
-Established the data engineering team at Cyndx, with the mandate to develop
-production-ready data systems. These systems focus on delivering the result of
-machine learning algorithms to end users, model training, and data ingestion.
+#### [National CineMedia] | Engineering Manager, Culver City, CA 2019 - present
 
-During my time leading the data engineering team, we met several critical
-milestones. Working closely with product, data science, and application teams, I
-identified short term requirements. We were then able to build and deploy
-interim solutions. At the same time designing and developing long-term solutions
-to deliver performant machine learning algorithms, and automated data ingestion
-pipelines.
+Lead multidisciplinary, distributed engineering team to build and deploy highly
+trafficked web property. Created quality assurance process using automated
+systems as well as non-technical resources. Modernized CI/CD pipeline in
+CircleCI. Managed vendor relationships.
 
-The data engineering team is a cross-functional team with advanced skills
-developed around delivering data-centric applications. We're well versed in
-application development, data science, and DevOps, allowing for rapid
-development of fast, fault-tolerant services in our application ecosystem.  
-_Python, Go, Docker, Kubernetes, Gitlab, AWS..._
+Established agile best practices across multiple cross-functional product and
+engineering teams. Ensured high quality code and infrastructure through pair
+programing and code review. Coached and mentored team leads. Oversaw hiring
+for senior-level engineering roles.
+
+#### [Cyndx Networks] | Senior Software Engineer, Santa Monica, CA 2017 - 2019
+
+Architected highly scalable infrastructure in AWS. Leveraged Docker to deploy
+containerized applications to AWS ECS and Fargate. Designed and implemented
+CI/CD pipelines using Gitlab hosted on AWS infrastructure. Responsible for
+maintaining web security. Mentored junior engineers and managed hiring process.
+
+Built features for web applications across full stack using Ruby, Ruby on
+Rails, JavaScript, React, Python, and Bash. Implemented developer CLI for
+deploying and monitoring production applications.
 
 #### [Yoshirt] | Lead Backend Engineer, Los Angeles, CA 2016
+
 Responsible for Yoshirt’s backend Ruby on Rails API. Designed Yoshirt’s backend
 to maximize native architecture. Design considerations included support for a
 unique in-app graphic design tool, a specialized order system allowing for
@@ -28,53 +33,51 @@ wide range of vendor systems. Handled large fluctuations in traffic.
 _Ruby, JsonAPI & JavaScript_
 
 #### [Flexa] | Software Engineer, Pasadena, CA 2015 - 2016
+
 Built the admin dashboard for tracking user engagement and driving conversions.
 The interface allowed for quick asynchronous updating of user information.  
 _Ruby, JavaScript_
 
 #### [Logical Reality Design] | Web Developer / Consulting, Pasadena, CA 2014
+
 Worked in teams to build client projects. Built features, identified and fixed
 bugs on client applications.  
 _Ruby & JavaScript_
 
-[Cyndx Networks]:         http://bit.ly/2Mp3VHE
-[Yoshirt]:                http://bit.ly/yo-shirt
-[Flexa]:                  http://bit.ly/flexa-inc
-[Logical Reality Design]: http://bit.ly/lrddesign
+[national cinemedia]: https://www.noovie.com/
+[cyndx networks]: http://bit.ly/2Mp3VHE
+[yoshirt]: http://bit.ly/yo-shirt
+[flexa]: http://bit.ly/flexa-inc
+[logical reality design]: http://bit.ly/lrddesign
 
-PROJECTS
---------
+## PROJECTS
 
-__[FullStack LA Meetup]__ \| Organizer of a biweekly meetup focused on building
+**[FullStack LA Meetup]** \| Organizer of a biweekly meetup focused on building
 core programing skills. We use pair programing, language agnostic
 challenges and open-source contributions to foster an environment which
 engages all skill levels.
 
-[FullStack LA Meetup]: http://bit.ly/fullstack-meetup
+[fullstack la meetup]: http://bit.ly/fullstack-meetup
 
-EDUCATION
----------
+## EDUCATION
 
-__[Turing School of Software and Design]__ | Web Application Development with Ruby, Rails & JavaScript  
+**[Turing School of Software and Design]** | Web Application Development with Ruby, Rails & JavaScript  
 2014 - 2015
 
-__[Otis College of Art and Design]__ - Environmental Design  
+**[Otis College of Art and Design]** - Environmental Design  
 1998 - 2000
 
-[Turing School of Software and Design]: http://bit.ly/turing-school
-[Otis College of Art and Design]:       http://bit.ly/otis-art-college
+[turing school of software and design]: http://bit.ly/turing-school
+[otis college of art and design]: http://bit.ly/otis-art-college
 
-TOOLBOX
--------
+## TOOLBOX
 
-``` ruby
+```ruby
 module DEVELOPER
   TOOLS = {
-    languages:   [:ruby, :python, :bash, :javascript, :sql],
-    dev_ops:     [:aws, :docker, :kubernetes, ci_cd: [:gitlab]],
-    frameworks:  [
-      :rails, :rspec, :jsonapi, {frontend: [:bootstrap, :foundation]}
-    ]
+    languages:   [:ruby, :python, :java, :php, :javascript, :bash, :sql],
+    dev_ops:     [:aws, :docker, :kubernetes, ci_cd: [:gitlab, :circleci]],
+    frameworks:  [:rails, :react, :nextjs]
   }
 end
 ```
