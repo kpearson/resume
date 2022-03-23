@@ -1,6 +1,18 @@
 ## EXPERIENCE
 
-#### [National CineMedia] | Engineering Manager, Culver City, CA 2019 - present
+#### [Samcart] | Director of Engineering, Austin, TX 2021 - present
+
+Oversee several teams including DevOps, SecOps, Quality Assurance, and Support
+Engineering. Work with team managers to set goals and identify key performance
+indicators. Establish processes and standards for maintaining secure, scalable
+infrastructure.
+
+Identify work units well suited for outside teams. Establish
+and maintain relationships with multiple outside vendors. Manage consultants’
+work-streams to allow SamCart to quickly augment technical capacity around app
+development, scale, and security.
+
+#### [National CineMedia] | Engineering Manager, Culver City, CA 2019 - 2021
 
 Lead multidisciplinary, distributed engineering team to build and deploy highly
 trafficked web property. Created quality assurance process using automated
@@ -44,6 +56,7 @@ Worked in teams to build client projects. Built features, identified and fixed
 bugs on client applications.  
 _Ruby & JavaScript_
 
+[samcart]: https://www.samcart.com/
 [national cinemedia]: https://www.noovie.com/
 [cyndx networks]: http://bit.ly/2Mp3VHE
 [yoshirt]: http://bit.ly/yo-shirt
@@ -70,7 +83,7 @@ engages all skill levels.
 [turing school of software and design]: http://bit.ly/turing-school
 [otis college of art and design]: http://bit.ly/otis-art-college
 
-## TOOLBOX
+## SPECIALTIES
 
 ```ruby
 module DEVELOPER
