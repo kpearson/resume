@@ -1,10 +1,10 @@
-Resume in HTML
-==============
+# Resume Webpage
 
-This repo is a very simple about me. One or two pages hosted on Github pages
-and built with Jekyll. At the moment I only plan on a single page containing my
-Resume.
+Simple personal resume. Hosted on Github pages. Built with [Jekyll].
 
-The goal is a Resume in markdown displayed in HTML and easily output to PDF.
-Initially I'm planing on two slightly different versions of the css. One to
-style the HTML and the other to style the PDF render.
+Written in markdown, displayed in HTML, and easily output to PDF.
+
+This uses two slightly different versions of css. One to style the HTML and the
+other to style the PDF.
+
+[jekyll]: https://jekyllrb.com/

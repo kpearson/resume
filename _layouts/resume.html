@@ -1,0 +1,30 @@
+{% for js in page.customjs %}
+<script async type="text/javascript" src="{{ js }}"></script>
+{% endfor %}
+
+{% include head.html %}
+
+<!-- <a class="github-fork-ribbon fixed" -->
+<!--    href="#" onclick="return xepOnline.Formatter.Format('printable',{ -->
+<!--      embedLocalImages: [true], -->
+<!--      filename: 'Kit_Pearson_Resume' -->
+<!--    });" -->
+<!--    title="Download PDF"> -->
+<!-- </a> -->
+
+<div id="printable">
+
+  <header class="page-header">
+    <div class='no-print'>
+      {% include screen-header.md %}
+    </div>
+  </header>
+
+  <div class='no-screen'>
+    {% include pdf-header.html %}
+  </div>
+
+
+  {{ content }}
+
+</div>
